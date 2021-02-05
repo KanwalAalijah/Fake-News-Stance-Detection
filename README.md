@@ -39,10 +39,10 @@
       Classification and Model Accuracy:
       The data was classified using 4 classifiers:
       
-        **.** K Nearest Neighbor
+         K Nearest Neighbor
        
-       **.** Decision Tree
+         Decision Tree
        
-       **.** Random Forest
+         Random Forest
       
-      **.*** Neural Networks
+         Neural Networks
