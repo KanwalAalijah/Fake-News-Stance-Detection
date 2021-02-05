@@ -2,13 +2,16 @@
 
 **Dataset:**
            Headlines and body text of 49972 news articles.
+           
 **Task:**
           1) Labelling of Training Sample
           2) Feature Extraction
           3) Classification using two different classifiers
           4) Determination of accuracy over the classifiers
+          
 **Method:**
           The task of classification was performed in the following steps (Implemented in Python):
+          
 **A.** **Data Preprocessing:**
        The dataset was preprocessed first;
        The duplicate records were removed and merged into a single file containing (headline, body id, stance, article body)
