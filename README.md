@@ -30,7 +30,8 @@
       SentiWordNet
       
 **D.** **Data Normalization:**
-      The final extracted features were normalized before applying classification algorithms.
+     
+     The final extracted features were normalized before applying classification algorithms.
       Min-Max normalization was applied to the features.
 
 **E.** **Train and Test Set construction:**
